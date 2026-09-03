@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(203, 28, 81);
+    background-image: url(./bilder/images.jpeg);
+    background-size: contain;
+}
+h1{
+    color: rgb(33, 23, 143);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: rgb(30, 146, 156);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
