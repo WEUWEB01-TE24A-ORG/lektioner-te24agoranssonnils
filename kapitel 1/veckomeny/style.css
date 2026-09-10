@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&family=Cookie&display=swap');
+body {}
+table {
+    background-color: blueviolet;
+    background-image: url(bilder/meg-Qk9P5enO8T4-unsplash.jpg);
+}
+caption {
+    background-color: chartreuse;
+    font-size: 67px;
+    padding: 20px;
+    font-family: "Cookie", cursive;
+}
+tr {}
+th {
+    font-size: 40px;
+    padding: 10px;
+    font-family: "Cantarell", sans-serif;
+}
+td {
+    font-size: 15px;
+    padding: 20px;
+    font-family: "Cantarell", sans-serif;
+}
+img {
+    width: 250px;
+}
