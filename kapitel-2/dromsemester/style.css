@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body {
+    background-image: url(./bilder/dion-tavenier-h-Qb-9H6Big-unsplash.jpg);
+    background-size: cover;
+}
+h1 {
+    color: black;
+    font-family: "Indie Flower", cursive;
+    font-size: 100px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 0 gold;
+    margin-left: 350px;
+}
+h2 {
+    color: black;
+    font-family: "Indie Flower", cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 gold;
+    margin-left: 500px;
+}
+p {
+    margin-left: 1309px;
+    margin-top: 442px;
+}
+a {
+    color: gold;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
