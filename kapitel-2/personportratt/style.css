@@ -1,3 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Erica+One&display=swap');
 body {
-    
+    background-color: beige;
+    background-image: url(./bilder/jynxzi\ hog\ rider.jpeg);
+    background-size: cover;
+}
+h1 {
+    color: black;
+    font-family: "Erica One", sans-serif;
+}
+h2{
+    color: black;
+    font-family: "Erica One", sans-serif;
+}
+h3{
+    color: black;
+    font-family: "Erica One", sans-serif;
+}
+h4{
+    color: black;
+    font-family: "Erica One", sans-serif;
+}
+p{
+    color: brown;
+}
+a{
+    margin-left: 1000px;
+    background-color: azure;
+}
+img{
+    width: 200px;
 }
