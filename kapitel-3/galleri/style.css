@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Erica+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {--baby-pink: #ff99c8ff;
+--lemon-chiffon: #fcf6bdff;
+--frosted-mint: #d0f4deff;
+--icy-blue: #a9def9ff;
+--mauve: #e4c1f9ff;
+}
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    background-color: #a9def9ff;
+}
+div.kontainer {
+    font-family: "Roboto", sans-serif;
+    width: 800px;
+    background-color: #d0f4deff;
+    color: #e4c1f9ff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+h1 {
+    font-family: "Erica One", sans-serif;
+    font-size: 80px;
+}
+p.intro {
+    font-size: 30px;
+}
+
+div.box{
+    background-color: #fcf6bdff;
+    padding: 50px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.right {
+    flex-direction: row-reverse;
+}
+img {
+    width: 50%;
+}
+p.bildtext {}
